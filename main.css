@@ -320,9 +320,9 @@ video {
 .achs {
     display: flex;
     overflow: hidden;
-    width: 90vw;
+    width: 99vw;
     justify-content: center;
-    gap: 3px;
+    gap: 5px;
     margin: auto;
 }
 .achpage {
