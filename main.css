@@ -323,7 +323,6 @@ video {
     width: 90vw;
     justify-content: center;
     gap: 3px;
-    border: #000 2px solid;
     margin: auto;
 }
 .achpage {
